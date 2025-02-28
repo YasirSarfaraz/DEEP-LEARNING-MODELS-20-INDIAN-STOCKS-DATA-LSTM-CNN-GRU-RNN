@@ -62,14 +62,10 @@ The models are evaluated using the following metrics:
 The results are stored for each sector and company, along with the actual vs. predicted stock prices.
 
 ## Architecture of our 4 Different Models
-![LSTM_architecture](https://github.com/user-attachments/assets/4d1ebe5f-1897-456b-8f14-b67d007214a2)
-![CNN1D_architecture](https://github.com/user-attachments/assets/01afb392-f11b-4336-84b9-501ce80ed8c5)
-![GRU_architecture](https://github.com/user-attachments/assets/119c0f5f-7885-45c1-9036-7a1e4a59399b)
-![SimpleRNN_architecture](https://github.com/user-attachments/assets/f6e21fda-4c8f-47fb-8137-a53965da2b5d)
-
-
-
-
+![image](https://github.com/user-attachments/assets/8d9dee08-7473-4a9d-8add-7e1814aede0c)
+![image](https://github.com/user-attachments/assets/e987225f-61fc-41a6-9489-df43c3058aa7)
+![image](https://github.com/user-attachments/assets/87b35893-24e0-42ac-a6b4-c7c31549f56a)
+![image](https://github.com/user-attachments/assets/4a33ac43-5641-4f49-b1fc-e312176264db)
 
 
 ## Future Enhancements
